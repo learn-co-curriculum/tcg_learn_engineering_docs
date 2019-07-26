@@ -15,7 +15,7 @@ You've seen parts of the Flatiron technical platform from the student and teache
 
 ## Instructions
 
-Read the Flatiron Engineering Team's docs about [the major systems that make up the learn platform](https://docs.learn.co/operations/learnco/). Browse the pages underneath that heading with sketches of the most important subsystems of learn.
+Read the Flatiron Engineering Team's docs about [the major systems that make up the learn platform](https://docs.learn.co/operations/services/). Browse the pages underneath that heading with sketches of the most important subsystems of learn.
 
 ## Post-check
 
